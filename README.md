@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Solirs/Solirs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Working/Worked on :
+
+- Solirs/iforgor
+
+- Litetools/Tasks
+
+
+
+Centers of interest :
+
+- Unix/Linux software development.
+
+- Low level programming.
+
+- Infosec.
+
+
+
+I use DEBIAN btw.
