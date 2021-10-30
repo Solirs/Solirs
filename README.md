@@ -21,4 +21,6 @@ Centers of interest :
 
 
 
+Professional whiner.
+
 I use DEBIAN btw.
