@@ -1,5 +1,5 @@
 
-[![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solirs&theme=radical)
 
