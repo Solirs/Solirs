@@ -1,7 +1,7 @@
 
 [![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solirs&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solirs&theme=radical)
 
 Working/Worked on :
 
