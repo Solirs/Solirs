@@ -19,6 +19,12 @@ Centers of interest :
 
 - Infosec.
 
+Pronouns : 
+
+he/him
+dev/sda1
+dev/sda2
+
 
 
 Professional whiner.
