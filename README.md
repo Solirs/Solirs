@@ -3,30 +3,49 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solirs&theme=radical)
 
-Working/Worked on :
+## --Contributed to--:
 
-- Solirs/iforgor
+- [Solirs/iforgor](https://github.com/Solirs/iforgor)
 
-- Litetools/Tasks
+- [Litetools/Tasks](https://github.com/Litetools/Tasks)
 
 
+## --Centers of interest-- :
 
-Centers of interest :
-
-- Unix/Linux software development.
+- Unix/Linux.
 
 - Low level programming.
 
-- Infosec.
+- Infosec/Cybersecurity.
+
+- CTFS.
+
+
+## --Languages/Technologies-- :
+
+- Java
+- Maven
+- Python
+- Shell scripting
+- C (Learning)
+
+
+## --Contact me-- : 
+
+Mail : solirs.dev@gmail.com
+
+Discord : mageheim#4350
+
+
+==================================================================================================
+
+## --Others-- :
 
 Pronouns : 
 
 he/him
-dev/sda1
-dev/sda2
+dev/sda
 
 
 
 Professional whiner.
-
-I use DEBIAN btw.
