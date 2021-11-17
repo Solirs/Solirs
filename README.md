@@ -1,13 +1,15 @@
-
-[![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solirs&theme=radical)
-
 ## --Contributed to--:
 
 - [Solirs/iforgor](https://github.com/Solirs/iforgor)
 
 - [Litetools/Tasks](https://github.com/Litetools/Tasks)
+
+
+## --Stats-- :
+
+[![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solirs&theme=radical)
 
 
 ## --Centers of interest-- :
