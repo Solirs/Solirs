@@ -4,6 +4,8 @@
 
 - [Litetools/Tasks](https://github.com/Litetools/Tasks)
 
+- [gokulapap/wappalyzer-cli](https://github.com/gokulapap/wappalyzer-cli)
+
 
 ## --Stats-- :
 
