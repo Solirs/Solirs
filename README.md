@@ -32,7 +32,7 @@
 - Python
 - Shell scripting
 - C (Learning)
-
+- Golang (learning)
 
 ## --Contact me-- : 
 
