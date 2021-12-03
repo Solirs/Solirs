@@ -6,6 +6,7 @@
 
 - [gokulapap/wappalyzer-cli](https://github.com/gokulapap/wappalyzer-cli)
 
+- [Solirs/dirhunter](https://github.com/Solirs/dirhunter)
 
 ## --Stats-- :
 
