@@ -36,7 +36,7 @@
 - Golang (learning)
 
 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width=50% height=50%>
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width=5% height=5%>
 
 ## --Contact me-- : 
 
