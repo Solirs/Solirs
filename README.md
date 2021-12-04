@@ -35,7 +35,8 @@
 - C (Learning)
 - Golang (learning)
 
-![alt text](https://github.com/Solirs/Solirs/blob/main/img/C.png?raw=true) ![alt text](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg) ![alt text](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg) ![alt text](https://github.com/Solirs/Solirs/blob/main/img/Go.png?raw=true)
+
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width=50% height=50%>
 
 ## --Contact me-- : 
 
