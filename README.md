@@ -49,11 +49,6 @@ Discord : mageheim#4350
 
 ## --Others-- :
 
-Pronouns : 
-
-he/him
-dev/sda
-
 
 
 Professional whiner.
