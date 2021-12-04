@@ -35,7 +35,7 @@
 - C (Learning)
 - Golang (learning)
 
-![alt text](https://github.com/Solirs/Solirs/blob/main/img/C.png?raw=true) ![alt text](https://github.com/Solirs/Solirs/blob/main/img/Python.png?raw=true) ![alt text](https://github.com/Solirs/Solirs/blob/main/img/Java.png?raw=true) ![alt text](https://github.com/Solirs/Solirs/blob/main/img/Go.png?raw=true)
+![alt text](https://github.com/Solirs/Solirs/blob/main/img/C.png?raw=true) ![alt text](https://github.com/Solirs/Solirs/blob/main/img/Py.png?raw=true) ![alt text](https://github.com/Solirs/Solirs/blob/main/img/Java.png?raw=true) ![alt text](https://github.com/Solirs/Solirs/blob/main/img/Go.png?raw=true)
 
 ## --Contact me-- : 
 
