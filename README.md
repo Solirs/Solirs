@@ -8,6 +8,10 @@
 
 - [Solirs/dirhunter](https://github.com/Solirs/dirhunter)
 
+- [Solirs/stuntman](https://github.com/Solirs/stuntman)
+
+
+
 ## --Stats-- :
 
 [![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
