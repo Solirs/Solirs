@@ -10,7 +10,7 @@
 
 - [Solirs/stuntman](https://github.com/Solirs/stuntman)
 
-- [Solirs/Gedditsave](https://github.com/Solirs/Gettit-Reddit-Video-Downloader)
+- [Solirs/gettit](https://github.com/Solirs/Gettit-Reddit-Video-Downloader)
 
 ## --Stats-- :
 
@@ -32,12 +32,12 @@
 
 ## --Languages/Technologies-- :
 
-- Java
-- Maven
+- Java (Beginner)
+- Maven (Beginner)
 - Python
 - Shell scripting
-- C (Learning)
-- Golang (learning)
+- C (Beginner)
+- Golang 
 
 
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width=7% height=7%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg" width=5% height=5%>
