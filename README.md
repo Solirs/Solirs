@@ -1,6 +1,6 @@
 # Solirs
 
-![alt-text](https://img.shields.io/badge/OS-Arch+FreeBSD-informational?&style=for-the-badge&color=purple) ![alt-text](https://img.shields.io/badge/Shell-Bash-informational?&style=for-the-badge&color=grey) ![alt-text](https://img.shields.io/badge/Text__Editor-Code_OSS-informational?&style=for-the-badge&color=darkblue)
+![alt-text](https://img.shields.io/badge/OS-Arch+FreeBSD-informational?&style=for-the-badge&color=purple) ![alt-text](https://img.shields.io/badge/Shell-Bash-informational?&style=for-the-badge&color=grey) ![alt-text](https://img.shields.io/badge/Text_Editor-Code_OSS-informational?&style=for-the-badge&color=darkblue)
 
 ## --Contributed to--:
 
