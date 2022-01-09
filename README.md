@@ -16,8 +16,7 @@
 
 [![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solirs&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solirs&layout=compact&theme=radical)
 
 ## --Centers of interest-- :
 
