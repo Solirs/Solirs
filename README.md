@@ -1,6 +1,6 @@
 # Solirs
 
-![alt-text](https://img.shields.io/badge/OS-Arch+FreeBSD-informational?&style=for-the-badge&color=46b3c1)
+![alt-text](https://img.shields.io/badge/OS-Arch+FreeBSD-informational?&style=for-the-badge&color=purple)
 
 
 ## --Contributed to--:
