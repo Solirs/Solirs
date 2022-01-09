@@ -1,3 +1,8 @@
+# Solirs
+
+https://img.shields.io/badge/OS-Arch+FreeBSD-informational?&style=for-the-badge&color=46b3c1"
+
+
 ## --Contributed to--:
 
 - [Solirs/iforgor](https://github.com/Solirs/iforgor)
