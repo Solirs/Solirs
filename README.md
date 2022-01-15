@@ -10,8 +10,6 @@
 
 - [gokulapap/wappalyzer-cli](https://github.com/gokulapap/wappalyzer-cli)
 
-- [Solirs/dirhunter](https://github.com/Solirs/dirhunter)
-
 - [Solirs/stuntman](https://github.com/Solirs/stuntman)
 
 - [Solirs/gettit](https://github.com/Solirs/Gettit-Reddit-Video-Downloader)
