@@ -35,13 +35,13 @@
 
 ## --Languages/Technologies-- :
 
-- Java (Beginner)
-- Maven (Beginner)
-- Python
+- Java (Intermediate)
+- Maven (Intermediate)
+- Python (Advanced)
 - Shell scripting
-- C (Beginner)
-- Golang 
-- Flask
+- C (Intermediate)
+- Golang (Advanced ish)
+- Flask (Intermediate)
 
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width=7% height=7%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg" width=5% height=5%>
 
