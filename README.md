@@ -6,8 +6,6 @@
 
 - [Solirs/iforgor](https://github.com/Solirs/iforgor)
 
-- [Litetools/Tasks](https://github.com/Litetools/Tasks)
-
 - [gokulapap/wappalyzer-cli](https://github.com/gokulapap/wappalyzer-cli)
 
 - [Solirs/stuntman](https://github.com/Solirs/stuntman)
