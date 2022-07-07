@@ -16,6 +16,8 @@
 
 - [Solirs/mekanism](https://github.com/Solirs/mekanism)
 
+- [joaoofreitas/0xg0.st](https://github.com/joaoofreitas/0xg0.st)
+
 ## --Stats-- :
 
 [![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
