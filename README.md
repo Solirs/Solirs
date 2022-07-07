@@ -14,6 +14,8 @@
 
 - [Solirs/pydoor](https://github.com/Solirs/pydoor)
 
+- [Solirs/mekanism](https://github.com/Solirs/mekanism)
+
 ## --Stats-- :
 
 [![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
