@@ -20,6 +20,7 @@
 
 - [Solirs/ssslasher](https://github.com/Solirs/ssslasher)
 
+- [searxng/searxng](https://github.com/searxng/searxng)
 
 ## --Stats-- :
 
