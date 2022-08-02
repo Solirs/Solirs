@@ -22,6 +22,8 @@
 
 - [searxng/searxng](https://github.com/searxng/searxng)
 
+- [dCaples/quickalias](https://github.com/dCaples/quickalias)
+
 ## --Stats-- :
 
 [![Solirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solirs&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
