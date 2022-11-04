@@ -55,7 +55,7 @@
 
 ## --Contact me-- : 
 
-Mail : solirs.dev@gmail.com
+Mail : iusegentoobtw@protonmail.com
 
 Discord : zzispi#4443
 
