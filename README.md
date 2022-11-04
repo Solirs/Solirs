@@ -36,9 +36,9 @@
 
 - Low level programming.
 
-- Infosec/Cybersecurity.
+- Back end development
 
-- CTFS.
+- Networking
 
 
 ## --Languages/Technologies-- :
