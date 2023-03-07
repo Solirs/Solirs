@@ -1,6 +1,6 @@
 # Solirs
 
-![alt-text](https://img.shields.io/badge/OSes-Gentoo&FreeBSD-informational?&style=for-the-badge&color=purple) ![alt-text](https://img.shields.io/badge/Text_Editor-Code_OSS-informational?&style=for-the-badge&color=darkblue)
+![alt-text](https://img.shields.io/badge/OSes-OpenSUSE%20Tumbleweed%20&%20Debian-informational?&style=for-the-badge&color=purple) ![alt-text](https://img.shields.io/badge/Text_Editor-VSCodium-informational?&style=for-the-badge&color=darkblue)
 
 ## --Contributed to--:
 
