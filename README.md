@@ -55,6 +55,8 @@
 
 ## --Contact me-- : 
 
-Mail : iusegentoobtw@protonmail.com
+Mail : iusegentoobtw@protonmail.com 
+Telegram: https://t.me/averageopensuseuser 
+Matrix: lunaris4447:matrix.org  
 
 ==================================================================================================
