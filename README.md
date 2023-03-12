@@ -32,7 +32,7 @@
 
 ## --Centers of interest-- :
 
-- Unix/Linux.
+- Unix/Linux/BSD.
 
 - Low level programming.
 
