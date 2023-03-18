@@ -58,5 +58,3 @@
 Mail : iusegentoobtw@protonmail.com 
 Telegram: https://t.me/averageopensuseenjoyer  
 Matrix: lunaris4447:matrix.org  
-
-==================================================================================================
