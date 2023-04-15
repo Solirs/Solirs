@@ -47,7 +47,7 @@
 - Maven (Intermediate)
 - Python (Advanced)
 - Shell scripting
-- C (Intermediate)
+- C (Intermediate+)
 - Golang (Advanced ish)
 - Flask (Intermediate)
 
