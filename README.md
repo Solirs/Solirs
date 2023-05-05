@@ -41,17 +41,17 @@
 - Networking
 
 
-## --Languages/Technologies-- :
+## --Languages--
 
-- Java (Intermediate)
-- Maven (Intermediate)
-- Python (Advanced)
-- Shell scripting
-- C (Intermediate+)
-- Golang (Advanced ish)
-- Flask (Intermediate)
+[![](https://skillicons.dev/icons?i=c,py,java,go)](https://skillicons.dev)
 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width=5% height=5%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width=7% height=7%> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg" width=5% height=5%>
+## --Tools&Technologies--
+
+[![OSes](https://skillicons.dev/icons?i=linux,bsd)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=flask,spring)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
+[![Misc](https://skillicons.dev/icons?i=vscode,docker,md,maven)](https://skillicons.dev)
+
 
 ## --Contact me-- : 
 
