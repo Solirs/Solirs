@@ -34,6 +34,8 @@
 
 - Unix/Linux/BSD.
 
+- Data structures and Algorithms
+
 - Low level programming.
 
 - Back end development
