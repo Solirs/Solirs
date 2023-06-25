@@ -52,7 +52,7 @@
 [![OSes](https://skillicons.dev/icons?i=linux,bsd)](https://skillicons.dev)
 [![Frameworks](https://skillicons.dev/icons?i=flask,spring)](https://skillicons.dev)
 [![Databases](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
-[![Misc](https://skillicons.dev/icons?i=vscode,docker,md,maven)](https://skillicons.dev)
+[![Misc](https://skillicons.dev/icons?i=vscode,docker,md,maven,qt)](https://skillicons.dev)
 
 
 ## --Contact me-- : 
