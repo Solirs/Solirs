@@ -1,4 +1,9 @@
 # Solirs
+Hello! I am a student from France who loves math and computer science.
+My main languages are Python and C, but i have also done a lot of Java and Go and a decent amount of C++.
+I've been maintaining and contributing to libre software for quite a while.
+I've created projects such as [FreeFang](https://github.com/FreeFangGame), [CDSC](https://github.com/Solirs/CDSC), and more.
+And contributed to projects such as [SearXNG](https://github.com/searxng/searxng).
 
 ![alt-text](https://img.shields.io/badge/OSes-OpenSUSE%20Tumbleweed%20&%20Debian-informational?&style=for-the-badge&color=purple) ![alt-text](https://img.shields.io/badge/Text_Editor-VSCodium-informational?&style=for-the-badge&color=darkblue)
 
