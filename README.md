@@ -19,5 +19,5 @@ Free (As in Freedom) software.
 [![](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
 [![Frameworks](https://skillicons.dev/icons?i=flask,)](https://skillicons.dev)
 
-Signal (preferred): GoldenMorning1007
+Signal (preferred): GoldenMorning1007  
 Mail : iusegentoobtw@protonmail.com  
