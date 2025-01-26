@@ -4,9 +4,9 @@ Data structures and Algorithms
 
 Low level programming.
 
-Graphics programming & Games development.
+Graphics programming & Game development.
 
-Networking
+(Game) Networking.
   
 Free (As in Freedom) software.
 
