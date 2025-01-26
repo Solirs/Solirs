@@ -1,6 +1,6 @@
 Linux/BSD.
 
-Data structures and Algorithms
+Data structures and Algorithms.
 
 Low level programming.
 
