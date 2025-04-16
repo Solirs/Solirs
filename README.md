@@ -20,4 +20,4 @@ Free (As in Freedom) software.
 [![Frameworks](https://skillicons.dev/icons?i=flask,)](https://skillicons.dev)
 
 Signal (preferred): GoldenMorning1007  
-Mail : iusegentoobtw@protonmail.com  
+Mail : aarongervais@protonmail.com  
